@@ -1,7 +1,7 @@
 # The-Sparks-Foundation-Internship-program
 This repository contains the task completed under the internship program
 
-#Task1
+# Task1:Prediction Using Supervised ML(Simple Linear Regression)
 
 Predict the percentage of a student based on the no. of study hours.What will be predicted score if a student studies for 9.25 hrs/ day?
 In this section we will see how the Python Scikit-Learn library for machine learning can be used to implement regression functions. We will start with simple linear regression involving two variables.
