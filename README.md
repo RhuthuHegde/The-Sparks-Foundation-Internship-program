@@ -16,7 +16,7 @@ YouTube link:https://www.youtube.com/watch?v=HGgF8sOPROw
 In this section we will see how the Python Scikit-Learn library for machine learning can be used to implement decision tree classifier. We should be able to visualise it graphically.
 A decision tree is a flowchart-like tree structure where an internal node represents feature(or attribute), the branch represents a decision rule, and each leaf node represents the outcome. The topmost node in a decision tree is known as the root node. It learns to partition on the basis of the attribute value. It partitions the tree in recursively manner call recursive partitioning. This flowchart-like structure helps you in decision making. Based on the feature values given we are going to predict if the Species is iris-versicolor or iris-setosa.
 
-Youtube link:
+Youtube link:https://www.youtube.com/watch?v=Ngot1tQ3tdc
 
 
 
