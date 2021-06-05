@@ -41,3 +41,4 @@ Youtube link:https://www.youtube.com/watch?v=Ngot1tQ3tdc
 comments:
 https://www.linkedin.com/feed/update/urn:li:ugcPost:6805824631505747968?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A6805824631505747968%2C6806271330086985728%29
 https://www.linkedin.com/feed/update/urn:li:activity:6806480944791388160?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6806480944791388160%2C6806529415028334592%29
+https://www.linkedin.com/feed/update/urn:li:ugcPost:6805576608469024768?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A6805576608469024768%2C6806996465379090432%29
