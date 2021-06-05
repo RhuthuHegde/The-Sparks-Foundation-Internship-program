@@ -11,6 +11,14 @@ In this regression task, we will predict the percentage of marks that a student 
 YouTube link:https://www.youtube.com/watch?v=HGgF8sOPROw
 
 
+##  Task6 :Prediction Using Decision Tree Algorithm
+
+In this section we will see how the Python Scikit-Learn library for machine learning can be used to implement decision tree classifier. We should be able to visualise it graphically.
+A decision tree is a flowchart-like tree structure where an internal node represents feature(or attribute), the branch represents a decision rule, and each leaf node represents the outcome. The topmost node in a decision tree is known as the root node. It learns to partition on the basis of the attribute value. It partitions the tree in recursively manner call recursive partitioning. This flowchart-like structure helps you in decision making. Based on the feature values given we are going to predict if the Species is iris-versicolor or iris-setosa.
+
+Youtube link:
+
+
 
 
 
@@ -32,3 +40,4 @@ YouTube link:https://www.youtube.com/watch?v=HGgF8sOPROw
 
 comments:
 https://www.linkedin.com/feed/update/urn:li:ugcPost:6805824631505747968?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A6805824631505747968%2C6806271330086985728%29
+https://www.linkedin.com/feed/update/urn:li:activity:6806480944791388160?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6806480944791388160%2C6806529415028334592%29
